@@ -1,0 +1,65 @@
+[
+    {
+        "Bottle1": [
+            {
+                "productName": "HeadPhone",
+                "productPrice": 34.99,
+                "productDescription": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit."
+            },
+            {
+                "productName": "Keyboard",
+                "productPrice": 45.99,
+                "productDescription": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+            },
+            {
+                "productName": "Mouse",
+                "productPrice": 56.99,
+                "productDescription": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+            }
+            
+
+        ]
+    },
+    {
+        "Bottle2": [
+            {
+                "productName": "Aquafina",
+                "productPrice": 3.99,
+                "productDescription": "When an unknown printer took a galley of type and scrambled it to make a type specimen book."
+            },
+            {
+                "productName": "Culligan",
+                "productPrice": 6.99,
+                "productDescription": "It has survived not only five centuries, but also the leap into electronic."
+            },
+            {
+                "productName": "Nestle",
+                "productPrice": 4.99,
+                "productDescription": "Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+            }
+            
+
+        ]
+    },
+    {
+        "Bottle3": [
+            {
+                "productName": "IphoneX",
+                "productPrice": 23000,
+                "productDescription": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+            },
+            {
+                "productName": "Samsung Z-flip",
+                "productPrice": 56000,
+                "productDescription": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution."
+            },
+            {
+                "productName": "Techno E34",
+                "productPrice": 12000,
+                "productDescription": "Many desktop publishing packages and web page editors now use Lorem Ipsum."
+            }
+            
+
+        ]
+    }
+]
